@@ -13309,7 +13309,7 @@
         {
             "type": "Feature",
             "properties": {
-                "st_nm": "Jammu and Kashmir"
+                "st_nm": "Jammu And Kashmir"
             },
             "geometry": {
                 "type": "Polygon",
